@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<title> revision </title>
+</head>
+<body>
+<h1>welcome to jobless jellybean</h1>
+<h2>meet our members</h2>
+<ol>
+<li>ajinkya</li>
+<li>anushka</li>
+<li>aarya</li>
+<li>abha</li>
+<li>samiksha</li>
+</ol>
+<br>
+<br>
+<fieldset>
+<legend><i><b>introduction to each member</b></i></legend>
+<h3>ajinkya</h3>
+<p>adi is adi he is adi. adi is also known as adi. adis name is adi.when adi looks in mirror he can see adi only</p>
+<br>
+<h3>ankusha</h3>
+<p> anushka is a volleyball player and is very creative and is going o become an architect and she is lambi  </p>
+<br>
+<h3>abha and arya</h3>
+<p> abha and arya are faternal twins abha and arya live in singapore they are in 6th but still learn 8th concepts </p>
+<br>
+<h3> sameeee </h3>
+<p>samiksha is known as gobi from 10th . she is going to becme ias .she is an aspirant but still is an ias.
+she runs a website known as freeminds<a href="https://www.missionsam.com/"></p>
+</fieldset>
+<table>
+<tr>
+<th>crazy</th>
+<th>sensetive</th>
+<th>athletic</th>
+</tr>
+
+<tr>
+<td>arya</td>
+<td>anushka</td>
+<td>anushla</td>
+</tr>
+
+<tr>
+<td>samee</td>
+<td>abha</td>
+<td>adi</td>
+</tr>
+
+<tr>
+<td>abha</td>
+<td>arya</td>
+<td>arya</td>
+</tr>
+
+</table>
+
+<img src="C:\Users\Ajinkya\Pictures\Screenshots\Screenshot (121).png">  
+
+</body>
+</html>
